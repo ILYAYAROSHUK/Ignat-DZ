@@ -1,0 +1,5 @@
+.angle{
+    width: 15px;
+    padding: 15px;
+    background: radial-gradient(rgba(0,0,0,0) 15px, rgba(255,255,255,0.3) 0);
+}

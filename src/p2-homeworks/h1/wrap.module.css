@@ -1,0 +1,12 @@
+.wrap_message {
+    display: grid;
+    grid-template-columns: 80px 30px 220px ;
+    background-color: lawngreen;
+    width: 330px;
+    height: 70px;
+    border-radius: 0px 5px 5px 0;
+}
+.wrap_block{
+    display: grid;
+    grid-template-rows: 40px 30px;
+}

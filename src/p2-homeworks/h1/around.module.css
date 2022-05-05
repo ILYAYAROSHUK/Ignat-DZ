@@ -1,0 +1,14 @@
+.around {
+    content: "";
+    bottom: 0;
+    right: 100%;
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: radial-gradient(60px at top left, transparent 49%, darkgreen 51%) no-repeat right bottom;
+
+}
+
+.grid{
+    grid-template-rows: 40px 30px;
+}
