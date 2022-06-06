@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ignat-DZ/static/css/main.461f2959.css",
-    "main.js": "/Ignat-DZ/static/js/main.33e60e4e.js",
+    "main.js": "/Ignat-DZ/static/js/main.9ce355d3.js",
     "index.html": "/Ignat-DZ/index.html",
     "main.461f2959.css.map": "/Ignat-DZ/static/css/main.461f2959.css.map",
-    "main.33e60e4e.js.map": "/Ignat-DZ/static/js/main.33e60e4e.js.map"
+    "main.9ce355d3.js.map": "/Ignat-DZ/static/js/main.9ce355d3.js.map"
   },
   "entrypoints": [
     "static/css/main.461f2959.css",
-    "static/js/main.33e60e4e.js"
+    "static/js/main.9ce355d3.js"
   ]
 }
